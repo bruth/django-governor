@@ -1,0 +1,10 @@
+.DS_Store
+.coverage
+*.ipynb
+*.sw?
+*.py?
+*.egg-info
+MANIFEST
+dist
+docs
+test.db
